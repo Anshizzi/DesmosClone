@@ -21,7 +21,7 @@ This project is a Java-based desktop application that replicates core features o
 ## Folder Structure
 
 ```
-ProjectTupperware/
+DesmosClone/
 ├── src/
 │   ├── Main.java
 │   ├── ui/
